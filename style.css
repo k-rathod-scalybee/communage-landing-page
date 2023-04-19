@@ -5391,7 +5391,9 @@ body,
 .contact-us-area.bg-light {
   padding-bottom: 80px;
 }
-
+.form-group {
+  margin-bottom: 30px;
+}
 .contact-us-area form {
   background: #ffffff none repeat scroll 0 0;
   -webkit-border-radius: 5px;
@@ -5447,6 +5449,7 @@ body,
   min-height: 180px;
   border-color: #f4f4f4;
   box-shadow: none;
+  border-radius: 8px;
 }
 
 .contact-us-area form input:focus,
