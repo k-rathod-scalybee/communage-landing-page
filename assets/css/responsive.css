@@ -58,7 +58,7 @@
   .banner-area.content-double .double-items .thumb {
     overflow: hidden;
     padding-bottom: 30px;
-    width: 50%;
+    width: 60%;
     order: 0;
   }
   .banner-area.content-double .double-items .info {
@@ -297,11 +297,6 @@
     width: 100%;
   }
 
-  /* Contact */
-  .contact-us-area form {
-    margin-bottom: 50px;
-  }
-
   /* 404 */
   .error-page-area .error-box {
     margin-top: 30px;
@@ -463,8 +458,12 @@
     padding-top: 50px;
   }
 
+  .banner-area.content-double.fixed-navbar .double-items {
+    text-align: center;
+  }
   .banner-area.content-double .double-items .thumb {
-    width: 80%;
+    width: 90%;
+    margin: 0 auto;
   }
 
   .banner-area form {
